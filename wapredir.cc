@@ -30,8 +30,8 @@
 #include <string.h>
 #include <stdlib.h>
 
-char *wapURL = "http://www.hld.ca/email/wap";
-char *htmlURL = "http://www.hld.ca/home/";
+char *wapURL = "http://www.hld.ca/index/";
+char *htmlURL = "http://www.hld.ca/index/";
 
 #define NUMAGENTS 2
 char *agents[] = {
