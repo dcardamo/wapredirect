@@ -2,7 +2,7 @@
 use strict;
 
 my $wapUrl = "http://hld.ca/email/wap";
-my $htmlUrl = "http://hld.ca/index.shtml";
+my $htmlUrl = "http://hld.ca/home/";
 
 my @wapAgents = qw(Phone UP);
 
